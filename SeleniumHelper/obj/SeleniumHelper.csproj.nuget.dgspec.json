@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj": {}
+    "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj": {
+    "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj",
+        "projectUniqueName": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj",
         "projectName": "SeleniumHelper",
-        "projectPath": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj",
+        "projectPath": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj",
         "packagesPath": "C:\\Users\\gpati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\obj\\",
+        "outputPath": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gpati\\AppData\\Roaming\\NuGet\\NuGet.Config"
