@@ -1,0 +1,9 @@
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Remote;
+global using OpenQA.Selenium.Firefox;
+global using OpenQA.Selenium.Chrome;
+global using WebDriverManager;
+global using WebDriverManager.DriverConfigs.Impl;
+global using RestSharp;
