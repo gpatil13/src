@@ -2369,11 +2369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\Automation\\Automation.csproj",
+      "projectUniqueName": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\Automation\\Automation.csproj",
       "projectName": "Automation",
-      "projectPath": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\Automation\\Automation.csproj",
+      "projectPath": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\Automation\\Automation.csproj",
       "packagesPath": "C:\\Users\\gpati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\Automation\\obj\\",
+      "outputPath": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\Automation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gpati\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2388,8 +2388,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj": {
-              "projectPath": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj"
+            "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj": {
+              "projectPath": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\SeleniumHelper\\SeleniumHelper.csproj"
             }
           }
         }

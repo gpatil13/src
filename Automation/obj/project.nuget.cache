@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9pwnIuKWKCo=",
+  "dgSpecHash": "1rJxuxsX6aw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\Automation\\Automation.csproj",
+  "projectFilePath": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\Automation\\Automation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gpati\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
     "C:\\Users\\gpati\\.nuget\\packages\\categorytraits.xunit2\\2.0.13\\categorytraits.xunit2.2.0.13.nupkg.sha512",

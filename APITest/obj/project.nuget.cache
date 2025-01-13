@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8EzJhyIy9p4=",
+  "dgSpecHash": "kP68psRKxQY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gpati\\OneDrive\\GP_Development\\src\\APITest\\APITest.csproj",
+  "projectFilePath": "c:\\Users\\gpati\\OneDrive\\GP_Development\\src\\APITest\\APITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gpati\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\gpati\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
