@@ -10,7 +10,7 @@ using RestSharp;
 using System;
 using Xunit.Abstractions;
 
-
+//Configuration setup class
 public class ConfigurationSetup
 {
 
